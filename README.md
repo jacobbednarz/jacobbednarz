@@ -11,11 +11,11 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the [API](ht
 #### 👷 Currently working on
 
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (3 days ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (3 days ago)
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) -  (4 days ago)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (today)
+- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) -  (today)
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store. (today)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
 - [cloudflare/Cloudflare-WordPress](https://github.com/cloudflare/Cloudflare-WordPress) - A Cloudflare plugin for WordPress (4 days ago)
-- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (6 days ago)
 
 #### 📜 My recent blog posts
 
