@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jacob
 
-Systems engineer at @cloudflare working on the API/SDKs.
+Systems engineer at [Cloudflare](https://cloudflare.com) working on the [API](https://api.cloudflare.com) and SDKs.
 
 #### 📫 How to reach me:
 
