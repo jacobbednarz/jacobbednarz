@@ -11,10 +11,10 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the [API](ht
 #### 👷 Currently working on
 
 
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
 - [cloudflare/api-schemas](https://github.com/cloudflare/api-schemas) -  (1 day ago)
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (2 days ago)
 - [cloudflare/Cloudflare-WordPress](https://github.com/cloudflare/Cloudflare-WordPress) - A Cloudflare plugin for WordPress (2 days ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (2 days ago)
 - [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (3 days ago)
 
 #### 📜 My recent blog posts
