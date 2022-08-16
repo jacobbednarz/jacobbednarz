@@ -11,8 +11,8 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the [API](ht
 #### 👷 Currently working on
 
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (today)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (today)
 - [cloudflare/api-schemas](https://github.com/cloudflare/api-schemas) -  (2 weeks ago)
 - [cloudflare/Cloudflare-WordPress](https://github.com/cloudflare/Cloudflare-WordPress) - A Cloudflare plugin for WordPress (2 weeks ago)
