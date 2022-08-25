@@ -12,10 +12,10 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the [API](ht
 
 
 - [jacobbednarz/terraform-acc-pages-placeholder](https://github.com/jacobbednarz/terraform-acc-pages-placeholder) -  (today)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (today)
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (1 day ago)
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (2 days ago)
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (2 days ago)
 
 #### 📜 My recent blog posts
 
