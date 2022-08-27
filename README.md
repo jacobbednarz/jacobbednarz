@@ -11,8 +11,8 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the [API](ht
 #### 👷 Currently working on
 
 
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (today)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 day ago)
 - [jacobbednarz/workers-httpbin](https://github.com/jacobbednarz/workers-httpbin) - a HTTP bin running in Cloudflare Workers (1 day ago)
 - [jacobbednarz/terraform-acc-pages-placeholder](https://github.com/jacobbednarz/terraform-acc-pages-placeholder) -  (2 days ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (3 days ago)
