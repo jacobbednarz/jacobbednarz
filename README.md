@@ -12,10 +12,10 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the [API](ht
 
 
 - [jacobbednarz/workers-httpbin](https://github.com/jacobbednarz/workers-httpbin) - a HTTP bin running in Cloudflare Workers (today)
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (2 days ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (2 days ago)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (today)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
+- [jacobbednarz/macostrator](https://github.com/jacobbednarz/macostrator) - a nix based orchestrator tool for Macs (today)
 - [jacobbednarz/terraform-acc-pages-placeholder](https://github.com/jacobbednarz/terraform-acc-pages-placeholder) -  (4 days ago)
-- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (5 days ago)
 
 #### 📜 My recent blog posts
 
