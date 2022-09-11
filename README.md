@@ -11,17 +11,17 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the [API](ht
 #### 👷 Currently working on
 
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (today)
-- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (today)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 day ago)
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (3 days ago)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (1 day ago)
+- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (1 day ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (2 days ago)
+- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (4 days ago)
 - [jacobbednarz/macostrator](https://github.com/jacobbednarz/macostrator) - a nix based orchestrator tool for Macs (1 week ago)
 
 #### 📜 My recent blog posts
 
 
 - [Migrating to auto-generated Terraform Registry documentation](https://jacobbednarz.com/migrating-to-auto-generated-terraform-registry-documentation) (3 months ago)
-- [Home network](https://jacobbednarz.com/home-network-and-lab) (8 months ago)
+- [Home network](https://jacobbednarz.com/home-network-and-lab) (9 months ago)
 - [Terraform provider development overrides](https://jacobbednarz.com/terraform-provider-development-overrides) (1 year ago)
 - [Personal data backup plan](https://jacobbednarz.com/personal-data-backup-plan) (2 years ago)
 - [Surviving on-call](https://jacobbednarz.com/surviving-on-call) (2 years ago)
