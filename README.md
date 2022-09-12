@@ -11,11 +11,11 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the [API](ht
 #### 👷 Currently working on
 
 
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (1 day ago)
-- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (1 day ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (2 days ago)
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (4 days ago)
-- [jacobbednarz/macostrator](https://github.com/jacobbednarz/macostrator) - a nix based orchestrator tool for Macs (1 week ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (2 days ago)
+- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (2 days ago)
+- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (5 days ago)
+- [jacobbednarz/macostrator](https://github.com/jacobbednarz/macostrator) - a nix based orchestrator tool for Macs (2 weeks ago)
 
 #### 📜 My recent blog posts
 
