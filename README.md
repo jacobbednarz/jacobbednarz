@@ -11,10 +11,10 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the [API](ht
 #### 👷 Currently working on
 
 
-- [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP collector written in Golang (today)
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (today)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (1 day ago)
+- [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP collector written in Golang (1 day ago)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (1 day ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 day ago)
+- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (2 days ago)
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (1 week ago)
 
 #### 📜 My recent blog posts
