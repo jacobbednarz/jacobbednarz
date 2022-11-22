@@ -20,6 +20,7 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the [API](ht
 #### 📜 My recent blog posts
 
 
+- [No redis-cli? No problem](https://jacobbednarz.com/no-redis-cli-no-problem) (1 day ago)
 - [Migrating to auto-generated Terraform Registry documentation](https://jacobbednarz.com/migrating-to-auto-generated-terraform-registry-documentation) (5 months ago)
 - [Home network](https://jacobbednarz.com/home-network-and-lab) (11 months ago)
 - [Terraform provider development overrides](https://jacobbednarz.com/terraform-provider-development-overrides) (2 years ago)
@@ -27,4 +28,3 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the [API](ht
 - [Surviving on-call](https://jacobbednarz.com/surviving-on-call) (2 years ago)
 - [Organisation of information for my workflow](https://jacobbednarz.com/organisation-of-information-for-my-workflow) (2 years ago)
 - [Taming travel](https://jacobbednarz.com/taming-travel) (3 years ago)
-- [My Setup™](https://jacobbednarz.com/posts/my-setup) (5 years ago)
