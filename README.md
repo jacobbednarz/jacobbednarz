@@ -11,7 +11,7 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the [API](ht
 #### 👷 Currently working on
 
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 day ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (5 days ago)
 - [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (5 days ago)
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (5 days ago)
@@ -20,6 +20,7 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the [API](ht
 #### 📜 My recent blog posts
 
 
+- [Piggybacking on container networking for debugging](https://jacobbednarz.com/piggybacking-on-container-networking-for-debugging) (5 days ago)
 - [No redis-cli? No problem](https://jacobbednarz.com/no-redis-cli-no-problem) (1 week ago)
 - [Migrating to auto-generated Terraform Registry documentation](https://jacobbednarz.com/migrating-to-auto-generated-terraform-registry-documentation) (5 months ago)
 - [Home network](https://jacobbednarz.com/home-network-and-lab) (11 months ago)
@@ -27,4 +28,3 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the [API](ht
 - [Personal data backup plan](https://jacobbednarz.com/personal-data-backup-plan) (2 years ago)
 - [Surviving on-call](https://jacobbednarz.com/surviving-on-call) (2 years ago)
 - [Organisation of information for my workflow](https://jacobbednarz.com/organisation-of-information-for-my-workflow) (2 years ago)
-- [Taming travel](https://jacobbednarz.com/taming-travel) (3 years ago)
