@@ -20,7 +20,6 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the [API](ht
 #### 📜 My recent blog posts
 
 
-- [Piggybacking on container networking for debugging](https://jacobbednarz.com/piggybacking-on-container-networking-for-debugging) (1 week ago)
 - [No redis-cli? No problem](https://jacobbednarz.com/no-redis-cli-no-problem) (1 week ago)
 - [Migrating to auto-generated Terraform Registry documentation](https://jacobbednarz.com/migrating-to-auto-generated-terraform-registry-documentation) (5 months ago)
 - [Home network](https://jacobbednarz.com/home-network-and-lab) (11 months ago)
@@ -28,3 +27,4 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the [API](ht
 - [Personal data backup plan](https://jacobbednarz.com/personal-data-backup-plan) (2 years ago)
 - [Surviving on-call](https://jacobbednarz.com/surviving-on-call) (2 years ago)
 - [Organisation of information for my workflow](https://jacobbednarz.com/organisation-of-information-for-my-workflow) (2 years ago)
+- [Taming travel](https://jacobbednarz.com/taming-travel) (3 years ago)
