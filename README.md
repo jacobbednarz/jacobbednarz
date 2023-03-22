@@ -20,7 +20,6 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 #### 📜 My recent blog posts
 
 
-- [Stop trying to convince people](https://jacobbednarz.com/stop-trying-to-convince-people) (3 weeks ago)
 - [Piggybacking on container networking for debugging](https://jacobbednarz.com/piggybacking-on-container-networking-for-debugging) (3 months ago)
 - [No redis-cli? No problem](https://jacobbednarz.com/no-redis-cli-no-problem) (4 months ago)
 - [Migrating to auto-generated Terraform Registry documentation](https://jacobbednarz.com/migrating-to-auto-generated-terraform-registry-documentation) (9 months ago)
@@ -28,3 +27,4 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 - [Terraform provider development overrides](https://jacobbednarz.com/terraform-provider-development-overrides) (2 years ago)
 - [Personal data backup plan](https://jacobbednarz.com/personal-data-backup-plan) (2 years ago)
 - [Surviving on-call](https://jacobbednarz.com/surviving-on-call) (2 years ago)
+- [Organisation of information for my workflow](https://jacobbednarz.com/organisation-of-information-for-my-workflow) (3 years ago)
