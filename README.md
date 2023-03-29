@@ -13,14 +13,14 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (today)
-- [cloudflare/homebrew-cloudflare](https://github.com/cloudflare/homebrew-cloudflare) -  (1 day ago)
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (4 days ago)
+- [cloudflare/homebrew-cloudflare](https://github.com/cloudflare/homebrew-cloudflare) -  (2 days ago)
+- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (5 days ago)
 - [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP collector written in Golang (1 week ago)
 
 #### 📜 My recent blog posts
 
 
-- [Stop trying to convince people](https://jacobbednarz.com/stop-trying-to-convince-people) (3 weeks ago)
+- [Stop trying to convince people](https://jacobbednarz.com/stop-trying-to-convince-people) (4 weeks ago)
 - [Piggybacking on container networking for debugging](https://jacobbednarz.com/piggybacking-on-container-networking-for-debugging) (4 months ago)
 - [No redis-cli? No problem](https://jacobbednarz.com/no-redis-cli-no-problem) (4 months ago)
 - [Migrating to auto-generated Terraform Registry documentation](https://jacobbednarz.com/migrating-to-auto-generated-terraform-registry-documentation) (9 months ago)
