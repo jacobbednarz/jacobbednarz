@@ -5,7 +5,7 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 #### 📫 How to reach me:
 
 - [@jacobbednarz](https://twitter.com/jacobbednarz)
-- ✉️ jacob.bednarz@hey.com / jb@cloudflare.com (⚠️ Please don't email me asking about updates on your issues or pull requests ⚠️)
+- ✉️ jacob.bednarz@hey.com / jb@cloudflare.com (Please don't email me asking about updates on your issues or pull requests)
 - 🔐 [PGP key](https://keybase.io/jacobbednarz/pgp_keys.asc)
 
 #### 👷 Currently working on
