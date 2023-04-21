@@ -1,0 +1,8 @@
+name: action debug
+on: workflow_dispatch
+jobs:
+  bar:
+    runs-on: ["ubuntu-latest"]
+    steps:
+      - run: echo "event name is:" ${{ github.event_name }} 
+      - run: echo "event type is:" ${{ github.event.action }} 
