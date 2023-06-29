@@ -12,15 +12,15 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 
 
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (today)
-- [cloudflare/homebrew-cloudflare](https://github.com/cloudflare/homebrew-cloudflare) -  (today)
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (today)
-- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (today)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
+- [cloudflare/homebrew-cloudflare](https://github.com/cloudflare/homebrew-cloudflare) -  (1 day ago)
+- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (1 day ago)
+- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (1 day ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 day ago)
 
 #### 📜 My recent blog posts
 
 
-- [Stop trying to convince people](https://jacobbednarz.com/stop-trying-to-convince-people) (3 months ago)
+- [Stop trying to convince people](https://jacobbednarz.com/stop-trying-to-convince-people) (4 months ago)
 - [Piggybacking on container networking for debugging](https://jacobbednarz.com/piggybacking-on-container-networking-for-debugging) (7 months ago)
 - [No redis-cli? No problem](https://jacobbednarz.com/no-redis-cli-no-problem) (7 months ago)
 - [Migrating to auto-generated Terraform Registry documentation](https://jacobbednarz.com/migrating-to-auto-generated-terraform-registry-documentation) (1 year ago)
