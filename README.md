@@ -20,7 +20,6 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 #### 📜 My recent blog posts
 
 
-- [Lucky blueberries](https://jacobbednarz.com/lucky-blueberries) (2 weeks ago)
 - [Stop trying to convince people](https://jacobbednarz.com/stop-trying-to-convince-people) (4 months ago)
 - [Piggybacking on container networking for debugging](https://jacobbednarz.com/piggybacking-on-container-networking-for-debugging) (7 months ago)
 - [No redis-cli? No problem](https://jacobbednarz.com/no-redis-cli-no-problem) (7 months ago)
@@ -28,3 +27,4 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 - [Home network](https://jacobbednarz.com/home-network-and-lab) (2 years ago)
 - [Terraform provider development overrides](https://jacobbednarz.com/terraform-provider-development-overrides) (2 years ago)
 - [Personal data backup plan](https://jacobbednarz.com/personal-data-backup-plan) (2 years ago)
+- [Surviving on-call](https://jacobbednarz.com/surviving-on-call) (3 years ago)
