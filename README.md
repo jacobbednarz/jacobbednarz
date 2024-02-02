@@ -13,9 +13,9 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store. (today)
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
-- [cloudflare/homebrew-cloudflare](https://github.com/cloudflare/homebrew-cloudflare) -  (today)
-- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (today)
-- [opentofu/registry](https://github.com/opentofu/registry) - The all-new opentofu.org registry! (today)
+- [cloudflare/homebrew-cloudflare](https://github.com/cloudflare/homebrew-cloudflare) -  (1 day ago)
+- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (1 day ago)
+- [opentofu/registry](https://github.com/opentofu/registry) - The all-new opentofu.org registry! (1 day ago)
 
 #### 📜 My recent blog posts
 
