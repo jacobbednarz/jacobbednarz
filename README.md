@@ -12,15 +12,15 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 
 
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (today)
-- [cloudflare/cloudflare-plugin-frontend](https://github.com/cloudflare/cloudflare-plugin-frontend) - A React/Redux front-end for Cloudflare&#39;s WordPress, Magento2, and cPanel plugins. (today)
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store. (2 days ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (2 days ago)
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (3 days ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store. (today)
+- [cloudflare/cloudflare-plugin-frontend](https://github.com/cloudflare/cloudflare-plugin-frontend) - A React/Redux front-end for Cloudflare&#39;s WordPress, Magento2, and cPanel plugins. (1 day ago)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API (4 days ago)
 
 #### 📜 My recent blog posts
 
 
-- [Lucky blueberries](https://jacobbednarz.com/lucky-blueberries) (7 months ago)
+- [Lucky blueberries](https://jacobbednarz.com/lucky-blueberries) (8 months ago)
 - [Stop trying to convince people](https://jacobbednarz.com/stop-trying-to-convince-people) (1 year ago)
 - [Piggybacking on container networking for debugging](https://jacobbednarz.com/piggybacking-on-container-networking-for-debugging) (1 year ago)
 - [No redis-cli? No problem](https://jacobbednarz.com/no-redis-cli-no-problem) (1 year ago)
