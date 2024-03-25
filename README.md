@@ -11,11 +11,11 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 #### 👷 Currently working on
 
 
+- [cloudflare/cloudflare-plugin-frontend](https://github.com/cloudflare/cloudflare-plugin-frontend) - A React/Redux front-end for Cloudflare&#39;s WordPress, Magento2, and cPanel plugins. (today)
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API (today)
 - [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (today)
 - [getgrit/stdlib](https://github.com/getgrit/stdlib) - The GritQL standard library provides common patterns for refactoring and upgrading code. (today)
-- [cloudflare/cloudflare-plugin-frontend](https://github.com/cloudflare/cloudflare-plugin-frontend) - A React/Redux front-end for Cloudflare&#39;s WordPress, Magento2, and cPanel plugins. (2 days ago)
 
 #### 📜 My recent blog posts
 
