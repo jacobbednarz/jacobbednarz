@@ -11,11 +11,11 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 #### 👷 Currently working on
 
 
-- [cloudflare/cloudflare-plugin-frontend](https://github.com/cloudflare/cloudflare-plugin-frontend) - A React/Redux front-end for Cloudflare&#39;s WordPress, Magento2, and cPanel plugins. (today)
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API (today)
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (today)
-- [getgrit/stdlib](https://github.com/getgrit/stdlib) - The GritQL standard library provides common patterns for refactoring and upgrading code. (today)
+- [cloudflare/cloudflare-plugin-frontend](https://github.com/cloudflare/cloudflare-plugin-frontend) - A React/Redux front-end for Cloudflare&#39;s WordPress, Magento2, and cPanel plugins. (today)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API (1 day ago)
+- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (1 day ago)
+- [getgrit/stdlib](https://github.com/getgrit/stdlib) - The GritQL standard library provides common patterns for refactoring and upgrading code. (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -26,5 +26,5 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 - [No redis-cli? No problem](https://jacobbednarz.com/no-redis-cli-no-problem) (1 year ago)
 - [Migrating to auto-generated Terraform Registry documentation](https://jacobbednarz.com/migrating-to-auto-generated-terraform-registry-documentation) (2 years ago)
 - [Home network](https://jacobbednarz.com/home-network-and-lab) (2 years ago)
-- [Terraform provider development overrides](https://jacobbednarz.com/terraform-provider-development-overrides) (2 years ago)
+- [Terraform provider development overrides](https://jacobbednarz.com/terraform-provider-development-overrides) (3 years ago)
 - [Personal data backup plan](https://jacobbednarz.com/personal-data-backup-plan) (3 years ago)
