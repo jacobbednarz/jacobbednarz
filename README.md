@@ -12,15 +12,15 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 
 
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (today)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API (today)
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (today)
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store. (today)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 day ago)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API (1 day ago)
+- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (1 day ago)
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store. (1 day ago)
 
 #### 📜 My recent blog posts
 
 
-- [Lucky blueberries](https://jacobbednarz.com/lucky-blueberries) (8 months ago)
+- [Lucky blueberries](https://jacobbednarz.com/lucky-blueberries) (9 months ago)
 - [Stop trying to convince people](https://jacobbednarz.com/stop-trying-to-convince-people) (1 year ago)
 - [Piggybacking on container networking for debugging](https://jacobbednarz.com/piggybacking-on-container-networking-for-debugging) (1 year ago)
 - [No redis-cli? No problem](https://jacobbednarz.com/no-redis-cli-no-problem) (1 year ago)
