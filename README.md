@@ -14,8 +14,8 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API (today)
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (today)
 - [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store. (today)
-- [cloudflare/python-cloudflare-cli4](https://github.com/cloudflare/python-cloudflare-cli4) -  (today)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
+- [cloudflare/python-cloudflare-cli4](https://github.com/cloudflare/python-cloudflare-cli4) -  (1 day ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 day ago)
 
 #### 📜 My recent blog posts
 
