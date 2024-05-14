@@ -11,11 +11,11 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 #### 👷 Currently working on
 
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API (2 days ago)
-- [cloudflare/cloudflare-python](https://github.com/cloudflare/cloudflare-python) - The official Python library for the Cloudflare API (4 days ago)
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (4 days ago)
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store. (4 days ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 day ago)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API (3 days ago)
+- [cloudflare/cloudflare-python](https://github.com/cloudflare/cloudflare-python) - The official Python library for the Cloudflare API (5 days ago)
+- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (5 days ago)
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store. (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -23,7 +23,7 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 - [Lucky blueberries](https://jacobbednarz.com/lucky-blueberries) (10 months ago)
 - [Stop trying to convince people](https://jacobbednarz.com/stop-trying-to-convince-people) (1 year ago)
 - [Piggybacking on container networking for debugging](https://jacobbednarz.com/piggybacking-on-container-networking-for-debugging) (1 year ago)
-- [No redis-cli? No problem](https://jacobbednarz.com/no-redis-cli-no-problem) (1 year ago)
+- [No redis-cli? No problem](https://jacobbednarz.com/no-redis-cli-no-problem) (2 years ago)
 - [Migrating to auto-generated Terraform Registry documentation](https://jacobbednarz.com/migrating-to-auto-generated-terraform-registry-documentation) (2 years ago)
 - [Home network](https://jacobbednarz.com/home-network-and-lab) (2 years ago)
 - [Terraform provider development overrides](https://jacobbednarz.com/terraform-provider-development-overrides) (3 years ago)
