@@ -12,8 +12,8 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 
 
 - [cloudflare/homebrew-cloudflare](https://github.com/cloudflare/homebrew-cloudflare) -  (today)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API (today)
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (today)
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API (3 days ago)
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (3 days ago)
 - [jacobbednarz/gritpatterns](https://github.com/jacobbednarz/gritpatterns) -  (3 days ago)
 
