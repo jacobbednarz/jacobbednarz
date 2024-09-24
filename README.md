@@ -11,11 +11,11 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 #### 👷 Currently working on
 
 
+- [cloudflare/homebrew-cloudflare](https://github.com/cloudflare/homebrew-cloudflare) -  (today)
 - [cloudflare/cloudflare-python](https://github.com/cloudflare/cloudflare-python) - The official Python library for the Cloudflare API (1 day ago)
 - [cloudflare/cloudflare-plugin-frontend](https://github.com/cloudflare/cloudflare-plugin-frontend) - A React/Redux front-end for Cloudflare&#39;s WordPress, Magento2, and cPanel plugins. (1 day ago)
 - [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (1 day ago)
 - [cloudflare/cloudflare-typescript](https://github.com/cloudflare/cloudflare-typescript) - The official Typescript library for the Cloudflare API (1 day ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 day ago)
 
 #### 📜 My recent blog posts
 
