@@ -12,10 +12,10 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 
 
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation (today)
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (today)
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store. (3 days ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (4 days ago)
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API (5 days ago)
+- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (1 day ago)
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store. (4 days ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (5 days ago)
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -27,4 +27,4 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 - [Migrating to auto-generated Terraform Registry documentation](https://jacobbednarz.com/migrating-to-auto-generated-terraform-registry-documentation) (2 years ago)
 - [Home network](https://jacobbednarz.com/home-network-and-lab) (2 years ago)
 - [Terraform provider development overrides](https://jacobbednarz.com/terraform-provider-development-overrides) (3 years ago)
-- [Personal data backup plan](https://jacobbednarz.com/personal-data-backup-plan) (3 years ago)
+- [Personal data backup plan](https://jacobbednarz.com/personal-data-backup-plan) (4 years ago)
