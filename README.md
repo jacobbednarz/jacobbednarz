@@ -11,9 +11,9 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 #### 👷 Currently working on
 
 
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (5 days ago)
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (6 days ago)
-- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store. (6 days ago)
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (6 days ago)
+- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (1 week ago)
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 📦 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store. (1 week ago)
 - [cloudflare/homebrew-cloudflare](https://github.com/cloudflare/homebrew-cloudflare) -  (1 week ago)
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) - The official Go library for the Cloudflare API (1 week ago)
 
