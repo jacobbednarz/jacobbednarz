@@ -26,5 +26,5 @@ Systems engineer at [Cloudflare](https://cloudflare.com) working on the control 
 - [No redis-cli? No problem](https://jacobbednarz.com/no-redis-cli-no-problem) (2 years ago)
 - [Migrating to auto-generated Terraform Registry documentation](https://jacobbednarz.com/migrating-to-auto-generated-terraform-registry-documentation) (2 years ago)
 - [Home network](https://jacobbednarz.com/home-network-and-lab) (3 years ago)
-- [Terraform provider development overrides](https://jacobbednarz.com/terraform-provider-development-overrides) (3 years ago)
+- [Terraform provider development overrides](https://jacobbednarz.com/terraform-provider-development-overrides) (4 years ago)
 - [Personal data backup plan](https://jacobbednarz.com/personal-data-backup-plan) (4 years ago)
