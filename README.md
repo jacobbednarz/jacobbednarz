@@ -9,11 +9,11 @@
 #### 👷 Currently working on
 
 
-- [cloudflare/cloudflare-python](https://github.com/cloudflare/cloudflare-python) - The official Python library for the Cloudflare API (1 week ago)
-- [cloudflare/cloudflare-typescript](https://github.com/cloudflare/cloudflare-typescript) - The official Typescript library for the Cloudflare API (1 week ago)
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (1 week ago)
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) - A command line utility to facilitate terraforming your existing Cloudflare resources. (1 week ago)
-- [cloudflare/api-schemas](https://github.com/cloudflare/api-schemas) -  (2 weeks ago)
+- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (3 weeks ago)
+- [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP collector written in Golang (3 weeks ago)
+- [Homebrew/homebrew-bundle](https://github.com/Homebrew/homebrew-bundle) - 💀 Homebrew/bundle (merged into Homebrew/brew) (3 months ago)
+- [jacobbednarz/debug](https://github.com/jacobbednarz/debug) - the junk drawer of GitHub debugging (8 months ago)
+- [jacobbednarz/gritpatterns](https://github.com/jacobbednarz/gritpatterns) -  (10 months ago)
 
 #### 📜 My recent blog posts
 
