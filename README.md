@@ -10,10 +10,10 @@
 
 
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (today)
+- [jacobbednarz/dotfiles](https://github.com/jacobbednarz/dotfiles) - Personal dotfiles (today)
 - [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP collector written in Golang (2 weeks ago)
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (3 weeks ago)
 - [cloudflare/cloudflare-python](https://github.com/cloudflare/cloudflare-python) - The official Python library for the Cloudflare API (4 weeks ago)
-- [cloudflare/cloudflare-typescript](https://github.com/cloudflare/cloudflare-typescript) - The official Typescript library for the Cloudflare API (4 weeks ago)
 
 #### 📜 My recent blog posts
 
