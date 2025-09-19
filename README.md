@@ -18,6 +18,7 @@
 #### 📜 My recent blog posts
 
 
+- [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/what-emperor-penguins-taught-me-about-building-high-performing-teams) (2 days ago)
 - [Automatically generating Cloudflare’s Terraform provider](https://jacobbednarz.com/automatically-generating-cloudflare-s-terraform-provider) (1 year ago)
 - [Lessons from building an automated SDK pipeline](https://jacobbednarz.com/lessons-from-building-an-automated-sdk-pipeline) (1 year ago)
 - [Gradual deployments, Rate Limiting, and new SDKs](https://jacobbednarz.com/new-tools-for-production-safety-gradual-deployments-and-new-sdks) (1 year ago)
@@ -25,4 +26,3 @@
 - [Stop trying to convince people](https://jacobbednarz.com/stop-trying-to-convince-people) (2 years ago)
 - [Terraform Providers and the Terraform Plugin Framework with Jacob Bednarz](https://jacobbednarz.com/terraform-providers-and-the-terraform-plugin-framework-with-jacob-bednarz) (2 years ago)
 - [Piggybacking on container networking for debugging](https://jacobbednarz.com/piggybacking-on-container-networking-for-debugging) (2 years ago)
-- [No redis-cli? No problem](https://jacobbednarz.com/no-redis-cli-no-problem) (2 years ago)
