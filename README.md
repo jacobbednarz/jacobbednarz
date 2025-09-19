@@ -18,7 +18,7 @@
 #### 📜 My recent blog posts
 
 
-- [Automatically generating Cloudflare’s Terraform provider](https://jacobbednarz.com/automatically-generating-cloudflare-s-terraform-provider) (11 months ago)
+- [Automatically generating Cloudflare’s Terraform provider](https://jacobbednarz.com/automatically-generating-cloudflare-s-terraform-provider) (1 year ago)
 - [Lessons from building an automated SDK pipeline](https://jacobbednarz.com/lessons-from-building-an-automated-sdk-pipeline) (1 year ago)
 - [Gradual deployments, Rate Limiting, and new SDKs](https://jacobbednarz.com/new-tools-for-production-safety-gradual-deployments-and-new-sdks) (1 year ago)
 - [Lucky blueberries](https://jacobbednarz.com/lucky-blueberries) (2 years ago)
