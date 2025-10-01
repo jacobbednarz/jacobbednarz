@@ -18,7 +18,7 @@
 #### 📜 My recent blog posts
 
 
-- [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/what-emperor-penguins-taught-me-about-building-high-performing-teams) (1 week ago)
+- [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/what-emperor-penguins-taught-me-about-building-high-performing-teams) (2 weeks ago)
 - [Automatically generating Cloudflare’s Terraform provider](https://jacobbednarz.com/automatically-generating-cloudflare-s-terraform-provider) (1 year ago)
 - [Lessons from building an automated SDK pipeline](https://jacobbednarz.com/lessons-from-building-an-automated-sdk-pipeline) (1 year ago)
 - [Gradual deployments, Rate Limiting, and new SDKs](https://jacobbednarz.com/new-tools-for-production-safety-gradual-deployments-and-new-sdks) (2 years ago)
