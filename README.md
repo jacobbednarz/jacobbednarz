@@ -9,7 +9,7 @@
 #### 👷 Currently working on
 
 
-- [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP collector written in Golang (4 weeks ago)
+- [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP collector written in Golang (1 month ago)
 - [jacobbednarz/dotfiles](https://github.com/jacobbednarz/dotfiles) - Personal dotfiles (1 month ago)
 - [jacobbednarz/homebrew-tap](https://github.com/jacobbednarz/homebrew-tap) - Formula that aren&#39;t maintained or available upstream (2 months ago)
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (3 months ago)
@@ -18,7 +18,7 @@
 #### 📜 My recent blog posts
 
 
-- [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/what-emperor-penguins-taught-me-about-building-high-performing-teams) (2 weeks ago)
+- [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/what-emperor-penguins-taught-me-about-building-high-performing-teams) (3 weeks ago)
 - [Automatically generating Cloudflare’s Terraform provider](https://jacobbednarz.com/automatically-generating-cloudflare-s-terraform-provider) (1 year ago)
 - [Lessons from building an automated SDK pipeline](https://jacobbednarz.com/lessons-from-building-an-automated-sdk-pipeline) (1 year ago)
 - [Gradual deployments, Rate Limiting, and new SDKs](https://jacobbednarz.com/new-tools-for-production-safety-gradual-deployments-and-new-sdks) (2 years ago)
