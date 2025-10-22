@@ -18,6 +18,7 @@
 #### 📜 My recent blog posts
 
 
+- [Skip the hype, sell the shovel](https://jacobbednarz.com/skip-the-hype-sell-the-shovel) (6 days ago)
 - [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/what-emperor-penguins-taught-me-about-building-high-performing-teams) (1 month ago)
 - [Automatically generating Cloudflare’s Terraform provider](https://jacobbednarz.com/automatically-generating-cloudflare-s-terraform-provider) (1 year ago)
 - [Lessons from building an automated SDK pipeline](https://jacobbednarz.com/lessons-from-building-an-automated-sdk-pipeline) (2 years ago)
@@ -25,4 +26,3 @@
 - [Lucky blueberries](https://jacobbednarz.com/lucky-blueberries) (2 years ago)
 - [Stop trying to convince people](https://jacobbednarz.com/stop-trying-to-convince-people) (2 years ago)
 - [Terraform Providers and the Terraform Plugin Framework with Jacob Bednarz](https://jacobbednarz.com/terraform-providers-and-the-terraform-plugin-framework-with-jacob-bednarz) (2 years ago)
-- [Piggybacking on container networking for debugging](https://jacobbednarz.com/piggybacking-on-container-networking-for-debugging) (2 years ago)
