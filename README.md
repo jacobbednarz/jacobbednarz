@@ -9,7 +9,7 @@
 #### 👷 Currently working on
 
 
-- [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP collector written in Golang (1 week ago)
+- [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP collector written in Golang (2 weeks ago)
 - [jacobbednarz/dotfiles](https://github.com/jacobbednarz/dotfiles) - Personal dotfiles (2 months ago)
 - [jacobbednarz/homebrew-tap](https://github.com/jacobbednarz/homebrew-tap) - Formula that aren&#39;t maintained or available upstream (3 months ago)
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (4 months ago)
@@ -18,7 +18,7 @@
 #### 📜 My recent blog posts
 
 
-- [Skip the hype, sell the shovel](https://jacobbednarz.com/skip-the-hype-sell-the-shovel) (3 weeks ago)
+- [Skip the hype, sell the shovel](https://jacobbednarz.com/skip-the-hype-sell-the-shovel) (4 weeks ago)
 - [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/what-emperor-penguins-taught-me-about-building-high-performing-teams) (1 month ago)
 - [Automatically generating Cloudflare’s Terraform provider](https://jacobbednarz.com/automatically-generating-cloudflare-s-terraform-provider) (1 year ago)
 - [Lessons from building an automated SDK pipeline](https://jacobbednarz.com/lessons-from-building-an-automated-sdk-pipeline) (2 years ago)
