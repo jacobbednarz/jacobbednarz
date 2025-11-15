@@ -18,7 +18,7 @@
 #### 📜 My recent blog posts
 
 
-- [Skip the hype, sell the shovel](https://jacobbednarz.com/skip-the-hype-sell-the-shovel) (4 weeks ago)
+- [Skip the hype, sell the shovel](https://jacobbednarz.com/skip-the-hype-sell-the-shovel) (1 month ago)
 - [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/what-emperor-penguins-taught-me-about-building-high-performing-teams) (1 month ago)
 - [Automatically generating Cloudflare’s Terraform provider](https://jacobbednarz.com/automatically-generating-cloudflare-s-terraform-provider) (1 year ago)
 - [Lessons from building an automated SDK pipeline](https://jacobbednarz.com/lessons-from-building-an-automated-sdk-pipeline) (2 years ago)
