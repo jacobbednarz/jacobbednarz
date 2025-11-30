@@ -18,7 +18,6 @@
 #### 📜 My recent blog posts
 
 
-- [Restricted stock units: the hidden trap](https://jacobbednarz.com/post/restricted-stock-units-the-hidden-trap) (5 days ago)
 - [Skip the hype, sell the shovel](https://jacobbednarz.com/posts/skip-the-hype-sell-the-shovel) (1 month ago)
 - [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/posts/what-emperor-penguins-taught-me-about-building-high-performing-teams) (2 months ago)
 - [Automatically generating Cloudflare’s Terraform provider](https://jacobbednarz.com/posts/automatically-generating-cloudflare-s-terraform-provider) (1 year ago)
@@ -26,3 +25,4 @@
 - [Gradual deployments, Rate Limiting, and new SDKs](https://jacobbednarz.com/posts/new-tools-for-production-safety-gradual-deployments-and-new-sdks) (2 years ago)
 - [Lucky blueberries](https://jacobbednarz.com/posts/lucky-blueberries) (2 years ago)
 - [Stop trying to convince people](https://jacobbednarz.com/posts/stop-trying-to-convince-people) (2 years ago)
+- [Terraform Providers and the Terraform Plugin Framework with Jacob Bednarz](https://jacobbednarz.com/posts/terraform-providers-and-the-terraform-plugin-framework-with-jacob-bednarz) (2 years ago)
