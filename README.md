@@ -18,7 +18,7 @@
 #### 📜 My recent blog posts
 
 
-- [Restricted stock units: the hidden trap](https://jacobbednarz.com/post/restricted-stock-units-the-hidden-trap) (6 days ago)
+- [Restricted stock units: the hidden trap](https://jacobbednarz.com/post/restricted-stock-units-the-hidden-trap) (1 week ago)
 - [Skip the hype, sell the shovel](https://jacobbednarz.com/posts/skip-the-hype-sell-the-shovel) (1 month ago)
 - [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/posts/what-emperor-penguins-taught-me-about-building-high-performing-teams) (2 months ago)
 - [Automatically generating Cloudflare’s Terraform provider](https://jacobbednarz.com/posts/automatically-generating-cloudflare-s-terraform-provider) (1 year ago)
