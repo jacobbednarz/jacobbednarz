@@ -9,8 +9,8 @@
 #### 👷 Currently working on
 
 
-- [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP collector written in Golang (5 days ago)
-- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (2 weeks ago)
+- [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP collector written in Golang (6 days ago)
+- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (3 weeks ago)
 - [jacobbednarz/dotfiles](https://github.com/jacobbednarz/dotfiles) - Personal dotfiles (3 months ago)
 - [jacobbednarz/homebrew-tap](https://github.com/jacobbednarz/homebrew-tap) - Formula that aren&#39;t maintained or available upstream (4 months ago)
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (6 months ago)
@@ -19,7 +19,7 @@
 
 
 - [Restricted stock units: the hidden trap](https://jacobbednarz.com/post/restricted-stock-units-the-hidden-trap) (2 weeks ago)
-- [Skip the hype, sell the shovel](https://jacobbednarz.com/posts/skip-the-hype-sell-the-shovel) (1 month ago)
+- [Skip the hype, sell the shovel](https://jacobbednarz.com/posts/skip-the-hype-sell-the-shovel) (2 months ago)
 - [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/posts/what-emperor-penguins-taught-me-about-building-high-performing-teams) (2 months ago)
 - [Automatically generating Cloudflare’s Terraform provider](https://jacobbednarz.com/posts/automatically-generating-cloudflare-s-terraform-provider) (1 year ago)
 - [Lessons from building an automated SDK pipeline](https://jacobbednarz.com/posts/lessons-from-building-an-automated-sdk-pipeline) (2 years ago)
