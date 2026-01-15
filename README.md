@@ -20,7 +20,7 @@
 
 - [Restricted stock units: the hidden trap](https://jacobbednarz.com/post/restricted-stock-units-the-hidden-trap) (1 month ago)
 - [Skip the hype, sell the shovel](https://jacobbednarz.com/posts/skip-the-hype-sell-the-shovel) (3 months ago)
-- [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/posts/what-emperor-penguins-taught-me-about-building-high-performing-teams) (3 months ago)
+- [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/posts/what-emperor-penguins-taught-me-about-building-high-performing-teams) (4 months ago)
 - [Automatically generating Cloudflare’s Terraform provider](https://jacobbednarz.com/posts/automatically-generating-cloudflare-s-terraform-provider) (1 year ago)
 - [Lessons from building an automated SDK pipeline](https://jacobbednarz.com/posts/lessons-from-building-an-automated-sdk-pipeline) (2 years ago)
 - [Gradual deployments, Rate Limiting, and new SDKs](https://jacobbednarz.com/posts/new-tools-for-production-safety-gradual-deployments-and-new-sdks) (2 years ago)
