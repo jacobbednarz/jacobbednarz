@@ -18,6 +18,7 @@
 #### 📜 My recent blog posts
 
 
+- [Validating your OpenAPI specification with reality](https://jacobbednarz.com/posts/openapi-validation-in-middleware) (2 weeks ago)
 - [Restricted stock units: the hidden trap](https://jacobbednarz.com/post/restricted-stock-units-the-hidden-trap) (2 months ago)
 - [Skip the hype, sell the shovel](https://jacobbednarz.com/posts/skip-the-hype-sell-the-shovel) (4 months ago)
 - [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/posts/what-emperor-penguins-taught-me-about-building-high-performing-teams) (5 months ago)
@@ -25,4 +26,3 @@
 - [Lessons from building an automated SDK pipeline](https://jacobbednarz.com/posts/lessons-from-building-an-automated-sdk-pipeline) (2 years ago)
 - [Gradual deployments, Rate Limiting, and new SDKs](https://jacobbednarz.com/posts/new-tools-for-production-safety-gradual-deployments-and-new-sdks) (2 years ago)
 - [Lucky blueberries](https://jacobbednarz.com/posts/lucky-blueberries) (2 years ago)
-- [Stop trying to convince people](https://jacobbednarz.com/posts/stop-trying-to-convince-people) (3 years ago)
