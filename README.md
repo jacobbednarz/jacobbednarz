@@ -9,8 +9,8 @@
 #### 👷 Currently working on
 
 
-- [jacobbednarz/dotfiles](https://github.com/jacobbednarz/dotfiles) - Personal dotfiles (today)
-- [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP collector written in Golang (3 days ago)
+- [jacobbednarz/dotfiles](https://github.com/jacobbednarz/dotfiles) - Personal dotfiles (1 day ago)
+- [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP collector written in Golang (4 days ago)
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (3 months ago)
 - [jacobbednarz/homebrew-tap](https://github.com/jacobbednarz/homebrew-tap) - Formula that aren&#39;t maintained or available upstream (7 months ago)
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) - Cloudflare Terraform Provider (9 months ago)
@@ -18,7 +18,7 @@
 #### 📜 My recent blog posts
 
 
-- [Validating your OpenAPI specification with reality](https://jacobbednarz.com/posts/openapi-validation-in-middleware) (4 weeks ago)
+- [Validating your OpenAPI specification with reality](https://jacobbednarz.com/posts/openapi-validation-in-middleware) (1 month ago)
 - [Restricted stock units: the hidden trap](https://jacobbednarz.com/post/restricted-stock-units-the-hidden-trap) (3 months ago)
 - [Skip the hype, sell the shovel](https://jacobbednarz.com/posts/skip-the-hype-sell-the-shovel) (4 months ago)
 - [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/posts/what-emperor-penguins-taught-me-about-building-high-performing-teams) (5 months ago)
