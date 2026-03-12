@@ -9,9 +9,9 @@
 #### 👷 Currently working on
 
 
+- [pierrecomputer/sdk](https://github.com/pierrecomputer/sdk) - Code Storage SDKs (today)
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (3 days ago)
 - [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP collector written in Golang (3 days ago)
-- [pierrecomputer/sdk](https://github.com/pierrecomputer/sdk) - Code Storage SDKs (6 days ago)
 - [jacobbednarz/dotfiles](https://github.com/jacobbednarz/dotfiles) - Personal dotfiles (2 weeks ago)
 - [jacobbednarz/homebrew-tap](https://github.com/jacobbednarz/homebrew-tap) - Formula that aren&#39;t maintained or available upstream (7 months ago)
 
