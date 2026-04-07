@@ -10,7 +10,7 @@
 
 
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (today)
-- [jacobbednarz/homebrew-tap](https://github.com/jacobbednarz/homebrew-tap) - Formula that aren&#39;t maintained or available upstream (6 days ago)
+- [jacobbednarz/homebrew-tap](https://github.com/jacobbednarz/homebrew-tap) - Formula that aren&#39;t maintained or available upstream (1 week ago)
 - [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP collector written in Golang (2 weeks ago)
 - [pierrecomputer/sdk](https://github.com/pierrecomputer/sdk) - Code Storage SDKs (3 weeks ago)
 - [jacobbednarz/dotfiles](https://github.com/jacobbednarz/dotfiles) - Personal dotfiles (1 month ago)
