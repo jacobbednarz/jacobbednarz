@@ -9,7 +9,7 @@
 #### 👷 Currently working on
 
 
-- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (4 days ago)
+- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (5 days ago)
 - [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP and NEL collector written in Golang (2 weeks ago)
 - [jacobbednarz/homebrew-tap](https://github.com/jacobbednarz/homebrew-tap) - Formula that aren&#39;t maintained or available upstream (2 weeks ago)
 - [pierrecomputer/sdk](https://github.com/pierrecomputer/sdk) - Code Storage SDKs (3 months ago)
@@ -21,7 +21,7 @@
 - [Validating your OpenAPI specification with reality](https://jacobbednarz.com/writing/openapi-validation-in-middleware) (4 months ago)
 - [Restricted stock units: the hidden trap](https://jacobbednarz.com/post/restricted-stock-units-the-hidden-trap) (6 months ago)
 - [Skip the hype, sell the shovel](https://jacobbednarz.com/writing/skip-the-hype-sell-the-shovel) (8 months ago)
-- [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/writing/what-emperor-penguins-taught-me-about-building-high-performing-teams) (8 months ago)
+- [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/writing/what-emperor-penguins-taught-me-about-building-high-performing-teams) (9 months ago)
 - [Automatically generating Cloudflare’s Terraform provider](https://jacobbednarz.com/writing/automatically-generating-cloudflare-s-terraform-provider) (2 years ago)
 - [Lessons from building an automated SDK pipeline](https://jacobbednarz.com/writing/lessons-from-building-an-automated-sdk-pipeline) (2 years ago)
 - [Gradual deployments, Rate Limiting, and new SDKs](https://jacobbednarz.com/writing/new-tools-for-production-safety-gradual-deployments-and-new-sdks) (2 years ago)
