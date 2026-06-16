@@ -9,9 +9,9 @@
 #### 👷 Currently working on
 
 
-- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (6 days ago)
-- [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP and NEL collector written in Golang (2 weeks ago)
-- [jacobbednarz/homebrew-tap](https://github.com/jacobbednarz/homebrew-tap) - Formula that aren&#39;t maintained or available upstream (2 weeks ago)
+- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (1 week ago)
+- [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP and NEL collector written in Golang (3 weeks ago)
+- [jacobbednarz/homebrew-tap](https://github.com/jacobbednarz/homebrew-tap) - Formula that aren&#39;t maintained or available upstream (3 weeks ago)
 - [pierrecomputer/sdk](https://github.com/pierrecomputer/sdk) - Code Storage SDKs (3 months ago)
 - [jacobbednarz/dotfiles](https://github.com/jacobbednarz/dotfiles) - Personal dotfiles (3 months ago)
 
@@ -25,4 +25,4 @@
 - [Automatically generating Cloudflare’s Terraform provider](https://jacobbednarz.com/writing/automatically-generating-cloudflare-s-terraform-provider) (2 years ago)
 - [Lessons from building an automated SDK pipeline](https://jacobbednarz.com/writing/lessons-from-building-an-automated-sdk-pipeline) (2 years ago)
 - [Gradual deployments, Rate Limiting, and new SDKs](https://jacobbednarz.com/writing/new-tools-for-production-safety-gradual-deployments-and-new-sdks) (2 years ago)
-- [Lucky blueberries](https://jacobbednarz.com/writing/lucky-blueberries) (2 years ago)
+- [Lucky blueberries](https://jacobbednarz.com/writing/lucky-blueberries) (3 years ago)
