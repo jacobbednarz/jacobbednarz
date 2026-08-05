@@ -9,7 +9,7 @@
 #### 👷 Currently working on
 
 
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (today)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 day ago)
 - [entireio/forgemark](https://github.com/entireio/forgemark) -  (3 weeks ago)
 - [pierrecomputer/sdk](https://github.com/pierrecomputer/sdk) - Code Storage SDKs (1 month ago)
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (1 month ago)
