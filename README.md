@@ -19,7 +19,7 @@
 
 
 - [Validating your OpenAPI specification with reality](https://jacobbednarz.com/writing/openapi-validation-in-middleware) (6 months ago)
-- [Restricted stock units: the hidden trap](https://jacobbednarz.com/post/restricted-stock-units-the-hidden-trap) (8 months ago)
+- [Restricted stock units: the hidden trap](https://jacobbednarz.com/post/restricted-stock-units-the-hidden-trap) (9 months ago)
 - [Skip the hype, sell the shovel](https://jacobbednarz.com/writing/skip-the-hype-sell-the-shovel) (10 months ago)
 - [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/writing/what-emperor-penguins-taught-me-about-building-high-performing-teams) (11 months ago)
 - [Automatically generating Cloudflare’s Terraform provider](https://jacobbednarz.com/writing/automatically-generating-cloudflare-s-terraform-provider) (2 years ago)
