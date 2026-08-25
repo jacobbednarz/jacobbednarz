@@ -10,9 +10,9 @@
 
 
 - [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP and NEL collector written in Golang (2 weeks ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 weeks ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 weeks ago)
 - [entireio/forgemark](https://github.com/entireio/forgemark) -  (1 month ago)
-- [pierrecomputer/sdk](https://github.com/pierrecomputer/sdk) - Code Storage SDKs (1 month ago)
+- [pierrecomputer/sdk](https://github.com/pierrecomputer/sdk) - Code Storage SDKs (2 months ago)
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (2 months ago)
 
 #### 📜 My recent blog posts
