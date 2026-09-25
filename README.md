@@ -9,7 +9,7 @@
 #### 👷 Currently working on
 
 
-- [jacobbednarz/dotfiles](https://github.com/jacobbednarz/dotfiles) - Personal dotfiles (today)
+- [jacobbednarz/dotfiles](https://github.com/jacobbednarz/dotfiles) - Personal dotfiles (1 day ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 week ago)
 - [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP and NEL collector written in Golang (1 month ago)
 - [entireio/forgemark](https://github.com/entireio/forgemark) - A concurrent git push/clone throughput benchmark for any smart-HTTP git forge. (2 months ago)
@@ -18,7 +18,7 @@
 #### 📜 My recent blog posts
 
 
-- [Validating your OpenAPI specification with reality](https://jacobbednarz.com/writing/openapi-validation-in-middleware) (7 months ago)
+- [Validating your OpenAPI specification with reality](https://jacobbednarz.com/writing/openapi-validation-in-middleware) (8 months ago)
 - [Restricted stock units: the hidden trap](https://jacobbednarz.com/post/restricted-stock-units-the-hidden-trap) (10 months ago)
 - [Skip the hype, sell the shovel](https://jacobbednarz.com/writing/skip-the-hype-sell-the-shovel) (11 months ago)
 - [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/writing/what-emperor-penguins-taught-me-about-building-high-performing-teams) (1 year ago)
