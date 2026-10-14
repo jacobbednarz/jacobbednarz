@@ -9,7 +9,7 @@
 #### 👷 Currently working on
 
 
-- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (2 weeks ago)
+- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (today)
 - [jacobbednarz/homebrew-tap](https://github.com/jacobbednarz/homebrew-tap) - Formula that aren&#39;t maintained or available upstream (2 weeks ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 weeks ago)
 - [jacobbednarz/dotfiles](https://github.com/jacobbednarz/dotfiles) - Personal dotfiles (2 weeks ago)
