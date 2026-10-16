@@ -19,10 +19,10 @@
 
 
 - [Validating your OpenAPI specification with reality](https://jacobbednarz.com/writing/openapi-validation-in-middleware) (8 months ago)
-- [Restricted stock units: the hidden trap](https://jacobbednarz.com/post/restricted-stock-units-the-hidden-trap) (10 months ago)
+- [Restricted stock units: the hidden trap](https://jacobbednarz.com/writing/restricted-stock-units-the-hidden-trap) (10 months ago)
 - [Skip the hype, sell the shovel](https://jacobbednarz.com/writing/skip-the-hype-sell-the-shovel) (1 year ago)
 - [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/writing/what-emperor-penguins-taught-me-about-building-high-performing-teams) (1 year ago)
-- [Automatically generating Cloudflare’s Terraform provider](https://jacobbednarz.com/writing/automatically-generating-cloudflare-s-terraform-provider) (2 years ago)
-- [Lessons from building an automated SDK pipeline](https://jacobbednarz.com/writing/lessons-from-building-an-automated-sdk-pipeline) (2 years ago)
-- [Gradual deployments, Rate Limiting, and new SDKs](https://jacobbednarz.com/writing/new-tools-for-production-safety-gradual-deployments-and-new-sdks) (2 years ago)
+- [Automatically generating Cloudflare’s Terraform provider](https://blog.cloudflare.com/automatically-generating-cloudflares-terraform-provider/) (2 years ago)
+- [Lessons from building an automated SDK pipeline](https://blog.cloudflare.com/lessons-from-building-an-automated-sdk-pipeline/) (2 years ago)
+- [Gradual deployments, Rate Limiting, and new SDKs](https://blog.cloudflare.com/workers-production-safety/) (2 years ago)
 - [Lucky blueberries](https://jacobbednarz.com/writing/lucky-blueberries) (3 years ago)
