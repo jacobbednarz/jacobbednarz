@@ -9,8 +9,8 @@
 #### 👷 Currently working on
 
 
-- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (5 days ago)
-- [jacobbednarz/homebrew-tap](https://github.com/jacobbednarz/homebrew-tap) - Formula that aren&#39;t maintained or available upstream (2 weeks ago)
+- [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (6 days ago)
+- [jacobbednarz/homebrew-tap](https://github.com/jacobbednarz/homebrew-tap) - Formula that aren&#39;t maintained or available upstream (3 weeks ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 weeks ago)
 - [jacobbednarz/dotfiles](https://github.com/jacobbednarz/dotfiles) - Personal dotfiles (3 weeks ago)
 - [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP and NEL collector written in Golang (2 months ago)
@@ -19,7 +19,7 @@
 
 
 - [Validating your OpenAPI specification with reality](https://jacobbednarz.com/writing/openapi-validation-in-middleware) (8 months ago)
-- [Restricted stock units: the hidden trap](https://jacobbednarz.com/writing/restricted-stock-units-the-hidden-trap) (10 months ago)
+- [Restricted stock units: the hidden trap](https://jacobbednarz.com/writing/restricted-stock-units-the-hidden-trap) (11 months ago)
 - [Skip the hype, sell the shovel](https://jacobbednarz.com/writing/skip-the-hype-sell-the-shovel) (1 year ago)
 - [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/writing/what-emperor-penguins-taught-me-about-building-high-performing-teams) (1 year ago)
 - [Automatically generating Cloudflare’s Terraform provider](https://blog.cloudflare.com/automatically-generating-cloudflares-terraform-provider/) (2 years ago)
