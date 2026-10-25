@@ -18,7 +18,7 @@
 #### 📜 My recent blog posts
 
 
-- [Validating your OpenAPI specification with reality](https://jacobbednarz.com/writing/openapi-validation-in-middleware) (8 months ago)
+- [Validating your OpenAPI specification with reality](https://jacobbednarz.com/writing/openapi-validation-in-middleware) (9 months ago)
 - [Restricted stock units: the hidden trap](https://jacobbednarz.com/writing/restricted-stock-units-the-hidden-trap) (11 months ago)
 - [Skip the hype, sell the shovel](https://jacobbednarz.com/writing/skip-the-hype-sell-the-shovel) (1 year ago)
 - [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/writing/what-emperor-penguins-taught-me-about-building-high-performing-teams) (1 year ago)
