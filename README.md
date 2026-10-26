@@ -9,7 +9,7 @@
 #### 👷 Currently working on
 
 
-- [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - A CSP and NEL collector written in Golang (today)
+- [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - Self-hosted collector for browser security reports: CSP, NEL, COOP, COEP and other Reporting API reports. (today)
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (1 week ago)
 - [jacobbednarz/homebrew-tap](https://github.com/jacobbednarz/homebrew-tap) - Formula that aren&#39;t maintained or available upstream (3 weeks ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 weeks ago)
