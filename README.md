@@ -9,16 +9,16 @@
 #### 👷 Currently working on
 
 
-- [jacobbednarz/dotfiles](https://github.com/jacobbednarz/dotfiles) - Personal dotfiles (today)
+- [jacobbednarz/dotfiles](https://github.com/jacobbednarz/dotfiles) - Personal dotfiles (1 day ago)
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (1 week ago)
 - [jacobbednarz/homebrew-tap](https://github.com/jacobbednarz/homebrew-tap) - Formula that aren&#39;t maintained or available upstream (1 week ago)
 - [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - Self-hosted collector for browser security reports: CSP, NEL, COOP, COEP and other Reporting API reports. (2 weeks ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 weeks ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (4 weeks ago)
 
 #### 📜 My recent blog posts
 
 
-- [Validating your OpenAPI specification with reality](https://jacobbednarz.com/writing/openapi-validation-in-middleware) (9 months ago)
+- [Validating your OpenAPI specification with reality](https://jacobbednarz.com/writing/openapi-validation-in-middleware) (10 months ago)
 - [Restricted stock units: the hidden trap](https://jacobbednarz.com/writing/restricted-stock-units-the-hidden-trap) (1 year ago)
 - [Skip the hype, sell the shovel](https://jacobbednarz.com/writing/skip-the-hype-sell-the-shovel) (1 year ago)
 - [What Emperor Penguins taught me about building high performing teams](https://jacobbednarz.com/writing/what-emperor-penguins-taught-me-about-building-high-performing-teams) (1 year ago)
