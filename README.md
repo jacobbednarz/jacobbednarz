@@ -9,11 +9,11 @@
 #### 👷 Currently working on
 
 
-- [jacobbednarz/dotfiles](https://github.com/jacobbednarz/dotfiles) - Personal dotfiles (2 days ago)
+- [jacobbednarz/dotfiles](https://github.com/jacobbednarz/dotfiles) - Personal dotfiles (3 days ago)
 - [jacobbednarz/cf-vault](https://github.com/jacobbednarz/cf-vault) - Manage your Cloudflare credentials, securely (1 week ago)
 - [jacobbednarz/homebrew-tap](https://github.com/jacobbednarz/homebrew-tap) - Formula that aren&#39;t maintained or available upstream (2 weeks ago)
-- [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - Self-hosted collector for browser security reports: CSP, NEL, COOP, COEP and other Reporting API reports. (2 weeks ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (4 weeks ago)
+- [jacobbednarz/go-csp-collector](https://github.com/jacobbednarz/go-csp-collector) - Self-hosted collector for browser security reports: CSP, NEL, COOP, COEP and other Reporting API reports. (3 weeks ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 month ago)
 
 #### 📜 My recent blog posts
 
